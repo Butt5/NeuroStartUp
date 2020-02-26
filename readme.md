@@ -4,3 +4,4 @@ NeuroStartUp - динамически развивающийся стартап,
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+![logo](https://github.com/Butt5/NeuroStartUp/blob/master/logo.png?raw=true)
